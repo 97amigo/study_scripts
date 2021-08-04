@@ -1,1 +1,1 @@
-Mush study stuff
+Much study stuff
