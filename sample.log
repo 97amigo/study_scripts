@@ -1,0 +1,5 @@
+ERROR:ex:Error!
+Traceback (most recent call last):
+  File "/home/petr/Python Projects/Учебные скрипты/logging_script.py", line 8, in <module>
+    raise RuntimeError
+RuntimeError
